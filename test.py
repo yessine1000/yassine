@@ -3,6 +3,6 @@ os.system("clear")
 print ("welcome")
 name = input ("You Name:")
 if name ("yassine")
-print ("ok")
+    print ("ok")
 else 
-print ("no")
+    print ("no")
