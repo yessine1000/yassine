@@ -1,3 +1,8 @@
 import os
 os.system("clear")
-print ("hello")
+print ("welcome")
+name = input ("You Name:")
+if name ("yassine")
+print ("ok")
+else 
+print ("no")
